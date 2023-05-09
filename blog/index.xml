@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on HE Xiaobin</title>
+    <title>Blog on Personal Page</title>
     <link>https://hiubunho.github.io/blog/</link>
-    <description>Recent content in Blog on HE Xiaobin</description>
+    <description>Recent content in Blog on Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hiubunho.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hiubunho.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cool Cat</title>
+      <title>Course Project - Telemedicine Platform</title>
+      <link>https://hiubunho.github.io/blog/project/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hiubunho.github.io/blog/project/</guid>
+      <description>OUR GROUP SUN, Yichen FU, Hao He, Xiaobin Liu, Songshang Li, Siwei BARRIOS PAPEDES Jorge
+NEEDFINDING During the Covid-19 pandemic, we saw overcrowded emergency rooms, shortages of doctors and nurses and disruptions to routine care.
+From the picture, we can see that there are too many people waiting in the hospital, and people infected with COVID-19 cannot receive timely treatment. In addition, there is a shortage of medication resources, and people find it difficult to purchase the medicine they need.</description>
+    </item>
+    
+    <item>
+      <title>Test Article 1</title>
       <link>https://hiubunho.github.io/blog/cat/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://hiubunho.github.io/blog/cat/</guid>
       <description>A rose is either a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears.
@@ -19,20 +30,9 @@ Their flowers vary in size and shape and are usually large and showy, in colours
     </item>
     
     <item>
-      <title>Cool Cat</title>
-      <link>https://hiubunho.github.io/blog/cat2/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://hiubunho.github.io/blog/cat2/</guid>
-      <description>A rose is either a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears.
-There are over three hundred species and tens of thousands of cultivars.They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles.
-Their flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds.</description>
-    </item>
-    
-    <item>
-      <title>Cool Kitty</title>
+      <title>Test Article 2</title>
       <link>https://hiubunho.github.io/blog/kitty/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://hiubunho.github.io/blog/kitty/</guid>
       <description>A rose is either a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears.
